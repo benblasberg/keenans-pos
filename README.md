@@ -1,5 +1,7 @@
 # Keenan's POS
 
+This project uses [lombok](https://projectlombok.org/) to eliminate some boilerplate code
+
 ### Building the project
 
 This project requires maven 3.6.0 and java 1.8 to build.

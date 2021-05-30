@@ -13,6 +13,10 @@ After being built there will be a .jar created in the target folder called `keen
 To run the jar, use the following command
 `java -jar keenan-pos.jar <path to data csv file>`
 
+Example of running the project from the main folder:
+
+`java -jar target/keenan-pos.jar src/main/resources/data.csv`
+
 ### About
 
 The following commands are available while running the software:
